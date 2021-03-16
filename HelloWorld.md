@@ -1,2 +1,2 @@
 ## This is a markdown file
-git push origin master
+git push datasciencecoursera
